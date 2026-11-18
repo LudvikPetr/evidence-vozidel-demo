@@ -1,0 +1,13 @@
+EVIDENCE VOZIDEL DPP 1.2 – DEMO
+
+Tato verze obsahuje pouze prázdnou testovací databázi. Nezadávejte skutečné údaje DPP.
+
+1. Rozbalte ZIP.
+2. Pro testování na iPhonu nahrajte soubory z této složky do kořene veřejného GitHub Pages repozitáře (Settings > Pages > Deploy from branch > main / root). UPOZORNĚNÍ: veřejný repozitář je veřejně přístupný. Nikdy sem nenahrávejte reálná data ani exporty.
+3. Otevřete přidělenou HTTPS adresu v Safari.
+4. Safari > Sdílet > Přidat na plochu.
+5. Vyzkoušejte příjezd a odjezd na fiktivní SPZ. Exportujte testovací zálohu.
+
+Hlasové rozpoznávání v Safari na iOS nemusí být dostupné. V takovém případě lze použít diktování přes mikrofon klávesnice. Hlasový návrh je vždy nutné potvrdit.
+
+Data se ukládají do localStorage daného prohlížeče; nejsou synchronizována.
