@@ -1,1 +1,8 @@
-Evidence vozidel DPP 1.3 DEMO – pouze fiktivní údaje.\nNahraj všechny soubory do kořene repozitáře GitHub Pages. Při aktualizaci zachovej index.html, app.js, sw.js, manifest.webmanifest a icon.svg.\nHlasové ovládání je experimentální. Před uložením vždy zkontroluj SPZ a další údaje.\nData zůstávají lokálně v prohlížeči; před aktualizací proveď export zálohy.\n
+Evidence vozidel DPP 1.4 DEMO
+
+Pouze fiktivní údaje. Nenahrávejte skutečná data DPP na veřejný GitHub.
+
+Nahrajte všechny soubory z této složky do kořene větve main repozitáře.
+Po zveřejnění otevřete web s ?v=14.
+Na začátku služby vyberte vrátnici. Pro hlasové zadání diktujte pouze SPZ, zkontrolujte přepis a klepněte na Převést text na SPZ. Pokud webové rozpoznávání na iPhonu selže, použijte mikrofon na klávesnici v poli přepisu.
+Záznam se uloží až po samostatném potvrzení příjezdu nebo odjezdu.
